@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -3377,7 +3375,31 @@
          y="0"
          width="595.32001"
          height="841.91998"
-         xlink:href="#SVGID_13_" /></clipPath></defs><g
+         xlink:href="#SVGID_13_" /></clipPath><clipPath
+       id="SVGID_104_-5"><use
+         id="use563-3"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="595.32001"
+         height="841.91998"
+         xlink:href="#SVGID_103_" /></clipPath><clipPath
+       id="SVGID_104_-0"><use
+         id="use563-9"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="595.32001"
+         height="841.91998"
+         xlink:href="#SVGID_103_" /></clipPath><clipPath
+       id="SVGID_104_-0-5"><use
+         id="use563-9-6"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="595.32001"
+         height="841.91998"
+         xlink:href="#SVGID_103_" /></clipPath></defs><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_2_)"
      id="g11"><defs
@@ -3477,10 +3499,89 @@
          xlink:href="#SVGID_11_" /></clipPath></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.13311,-111.50635)"
      clip-path="url(#SVGID_14_)"
-     id="g93"><path
-       d="m 129.21875,21.46875 c -14.06767,0.0068 -28.11984,0.03101 -42.1875,0.03125 0.12886,0.0023 0.14243,0.01398 -0.375,0.03125 -1.09591,0.03663 -2.04815,0.4544 -2.84375,1.25 -0.78792,0.787919 -1.20613,1.701594 -1.25,2.78125 -0.003,0.06316 0,0.123186 0,0.1875 l 0,4.78125 -20.75,0 c 0,0 -0.72031,0.066 -1,0.53125 -0.27969,0.4653 -0.28416,1.66522 0,2.125 0.28416,0.45978 1,0.5 1,0.5 l 20.75,0 0,4.65625 c 0,0.10417 -0.23508,-0.63739 0,0.3125 0.25284,1.02166 0.5868,2.07041 1.25,2.65625 0.85829,0.75817 1.95181,1.27902 2.84375,1.28125 28.68649,0.0718 58.31049,0.20224 85.15625,0 1.14987,-0.009 2.29286,-0.56033 2.9375,-1.28125 0.69407,-0.77621 1.13454,-1.75397 1.25,-2.5625 0.13435,-0.94083 0,-0.27083 0,-0.40625 l 0,-4.5625 20.78125,0 c 0,0 0.72299,-0.0704 1,-0.53125 0.27701,-0.46084 0.27701,-1.63291 0,-2.09375 -0.27701,-0.46084 -1,-0.53125 -1,-0.53125 l -20.78125,0 0,-5 c 0,-1.108258 -0.39949,-2.092264 -1.25,-2.84375 -0.88838,-0.784949 -2.0194,-1.279474 -2.9375,-1.28125 -14.19268,-0.02745 -28.40104,-0.03811 -42.59375,-0.03125 z m -42.5625,1.09375 3.75,0 0,18.96875 -3.75,0 c -0.81264,0 -1.53008,-0.34445 -2.125,-0.9375 -0.55562,-0.55387 -0.83967,-1.1949 -0.90625,-1.9375 -0.0637,-0.71014 -0.23303,-8.73539 0,-13.09375 0.0425,-0.794883 0.32011,-1.475437 0.90625,-2.0625 0.59398,-0.594918 1.31154,-0.9375 2.125,-0.9375 z m 4.78125,0 7.46875,0 0,18.96875 -7.46875,0 0,-18.96875 z m 8.53125,0 7.4375,0 0,18.96875 -7.4375,0 0,-18.96875 z m 8.5,0 7.46875,0 0,18.96875 -7.46875,0 0,-18.96875 z m 8.53125,0 7.4375,0 0,18.96875 -7.4375,0 0,-18.96875 z m 8.5,0 7.46875,0 0,18.96875 -7.46875,0 0,-18.96875 z m 8.53125,0 7.4375,0 0,18.96875 -7.4375,0 0,-18.96875 z m 8.5,0 7.46875,0 0,18.96875 -7.46875,0 0,-18.96875 z m 8.53125,0 7.4375,0 0,18.96875 -7.4375,0 0,-18.96875 z m 8.5,0 7.46875,0 0,18.96875 -7.46875,0 0,-18.96875 z m 8.5,0 3.75,0 c 0.8909,0 1.69055,0.462502 2.21875,0.9375 0.69729,0.627057 0.90625,1.472171 0.90625,2.125 l 0,13.125 c 0,0.70643 -0.36425,1.32527 -0.90625,1.84375 -0.70884,0.67808 -1.53481,0.9375 -2.21875,0.9375 l -3.75,0 0,-18.96875 z m -73.03125,6.34375 -2.5625,0.8125 0,0.78125 1.75,-0.53125 0,5.9375 -1.71875,0 0,0.71875 4.25,0 0,-0.71875 -1.71875,0 0,-7 z m 16.78125,0.0625 c -0.781,0 -1.4825,0.2245 -2.0625,0.6875 l 0,0.875 c 0.62,-0.58 1.2665,-0.875 1.9375,-0.875 0.47,0 0.84275,0.10375 1.09375,0.34375 0.251,0.24 0.375,0.58725 0.375,1.03125 0,0.37 -0.083,0.7335 -0.25,1.0625 -0.167,0.329 -0.61775,0.86175 -1.34375,1.59375 l -2.1875,2.1875 0,0.75 4.5,0 0,-0.75 -3.53125,0 1.75,-1.75 c 0.716,-0.717 1.21175,-1.291 1.46875,-1.75 0.258,-0.459 0.375,-0.93325 0.375,-1.40625 0,-0.616 -0.1715,-1.10875 -0.5625,-1.46875 -0.391,-0.36 -0.9145,-0.53125 -1.5625,-0.53125 z m 17,0 c -0.655,0 -1.2075,0.1495 -1.6875,0.4375 l 0,0.8125 c 0.467,-0.367 0.968,-0.5625 1.5,-0.5625 0.96,0 1.4375,0.4395 1.4375,1.3125 0,0.94 -0.617,1.40625 -1.875,1.40625 l -0.59375,0 0,0.6875 0.59375,0 c 1.417,0 2.125,0.495 2.125,1.5 0,0.46 -0.14375,0.83075 -0.46875,1.09375 -0.326,0.263 -0.76225,0.40625 -1.28125,0.40625 -0.645,0 -1.20275,-0.217 -1.71875,-0.625 l 0,0.90625 c 0.421,0.27 0.9805,0.40625 1.6875,0.40625 0.769,0 1.38,-0.216 1.875,-0.625 0.494,-0.409 0.75,-0.938 0.75,-1.625 0,-0.493 -0.174,-0.919 -0.5,-1.25 -0.326,-0.331 -0.74625,-0.5175 -1.28125,-0.5625 l 0,-0.03125 c 1.008,-0.291 1.53125,-0.92025 1.53125,-1.90625 0,-0.541 -0.20275,-0.9845 -0.59375,-1.3125 -0.39,-0.327 -0.903,-0.46875 -1.5,-0.46875 z m 18.1875,0.125 -3.375,4.96875 0,0.53125 3.5625,0 0,2.03125 0.8125,0 0,-2.03125 0.96875,0 0,-0.65625 -0.96875,0 0,-4.84375 -1,0 z m 14.9375,0 0,3.75 c 0.591,-0.039 0.9895,-0.0625 1.1875,-0.0625 0.629,0 1.1035,0.12725 1.4375,0.40625 0.334,0.279 0.5,0.6785 0.5,1.1875 0,0.506 -0.166,0.91275 -0.5,1.21875 -0.334,0.307 -0.75025,0.46875 -1.28125,0.46875 -0.532,0 -1.0495,-0.166 -1.5625,-0.5 l 0,0.875 c 0.334,0.207 0.83825,0.3125 1.53125,0.3125 0.791,0 1.42025,-0.22525 1.90625,-0.65625 0.486,-0.431 0.75,-1.03225 0.75,-1.78125 0,-0.719 -0.2395,-1.25925 -0.6875,-1.65625 -0.449,-0.398 -1.05275,-0.59375 -1.84375,-0.59375 -0.147,0 -0.37425,0.01525 -0.65625,0.03125 l 0,-2.28125 2.84375,0 0,-0.71875 -3.625,0 z m -14.75,0.71875 0.0312,0 c -0.013,0.292 -0.0312,0.55125 -0.0312,0.78125 l 0,3.34375 -2.65625,0 2.375,-3.53125 c 0.166,-0.315 0.25525,-0.52275 0.28125,-0.59375 z m -85.375,1.78125 20.75,0 0,1.0625 -20.75,0 0,-1.0625 z M 176,31.6875 l 20.78125,0 c 0,0.61516 0.0199,0.0633 0,1.0625 l -20.78125,0 0,-1.0625 z"
-       transform="translate(167.96876,72)"
-       id="path95" /></g><g
+     id="g93"><rect
+       width="90"
+       height="30"
+       rx="6.0999999"
+       x="252.20258"
+       y="89.046455"
+       id="rect7687"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29140615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><rect
+       width="9"
+       height="30.000002"
+       rx="4.57967e-015"
+       x="286.24542"
+       y="89.046455"
+       id="rect7687-7"
+       style="fill:#000000;fill-opacity:0.25098039;stroke:#000000;stroke-width:1.29140615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><rect
+       width="9"
+       height="30.000002"
+       rx="4.57967e-015"
+       x="272.72568"
+       y="89.046455"
+       id="rect7687-7-6"
+       style="fill:#000000;fill-opacity:0.25098039;stroke:#000000;stroke-width:1.29140615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><rect
+       width="9"
+       height="30.000002"
+       rx="4.57967e-015"
+       x="259.20596"
+       y="89.046455"
+       id="rect7687-7-6-9"
+       style="fill:#000000;fill-opacity:0.25098039;stroke:#000000;stroke-width:1.29140615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><rect
+       width="9"
+       height="30.000002"
+       rx="4.57967e-015"
+       x="299.76514"
+       y="89.046455"
+       id="rect7687-7-3"
+       style="fill:#000000;fill-opacity:0.25098039;stroke:#000000;stroke-width:1.29140615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><rect
+       width="9"
+       height="30.000002"
+       rx="4.57967e-015"
+       x="323.58319"
+       y="89.046455"
+       id="rect7687-7-3-3"
+       style="fill:#000000;fill-opacity:0.25098039;stroke:#000000;stroke-width:1.29140615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><g
+       transform="translate(40.660021,-54.052619)"
+       clip-path="url(#SVGID_104_-5)"
+       id="g565-1"><g
+         transform="translate(219.4102,162.7397)"
+         id="text567-3"
+         style="font-size:12px;font-family:Microsoft JhengHei"><path
+           d="m 6.4453125,0 -5.34375,0 0,-1.1484375 1.9863281,0 0,-6.5566406 -2.0390625,0.5507812 0,-1.2070312 3.4160156,-0.8964844 0,8.109375 1.9804688,0 z"
+           id="path8723"
+           style="font-weight:bold;-inkscape-font-specification:Microsoft JhengHei Bold" /></g></g><g
+       transform="translate(58.907288,-54.078986)"
+       clip-path="url(#SVGID_104_-0)"
+       id="g565-4"><g
+         id="text567-9"
+         style="font-size:12px;font-family:Microsoft JhengHei"><path
+           d="m 221.09573,162.7397 -5.64257,0 0,-1.14844 2.63085,-2.58984 c 0.58594,-0.57422 1.01856,-1.07031 1.29786,-1.48828 0.27929,-0.41797 0.41894,-0.87304 0.41894,-1.36524 0,-1.0039 -0.53125,-1.50585 -1.59375,-1.50586 -0.79688,1e-5 -1.5625,0.334 -2.29687,1.00196 l 0,-1.32422 c 0.73828,-0.53906 1.58593,-0.80859 2.54297,-0.8086 0.83202,1e-5 1.49511,0.22169 1.98925,0.66504 0.49414,0.44337 0.74121,1.04982 0.74121,1.81934 0,0.55469 -0.15625,1.10645 -0.46875,1.65527 -0.3125,0.54884 -0.85742,1.19825 -1.63476,1.94825 l -2.01563,1.92187 0,0.0293 4.03125,0 z"
+           id="path8720"
+           style="font-weight:bold;-inkscape-font-specification:Microsoft JhengHei Bold" /></g></g><g
+       transform="translate(68.136883,-48.755142)"
+       clip-path="url(#SVGID_104_-0-5)"
+       id="g565-4-0" /><g
+       transform="translate(68.136881,-48.755143)"
+       id="text567-9-4"
+       style="font-size:12px;font-family:Microsoft JhengHei"><path
+         d="m 219.88979,155.68149 c 0.62109,0.47266 1.32421,0.70898 2.10937,0.70898 0.58203,0 1.04687,-0.1416 1.39453,-0.4248 0.34765,-0.2832 0.52148,-0.66699 0.52149,-1.15137 -1e-5,-1.0664 -0.77735,-1.5996 -2.33203,-1.59961 l -0.77344,0 0,-1.10742 0.72656,0 c 1.38671,0 2.08007,-0.49804 2.08008,-1.49414 -1e-5,-0.92968 -0.5293,-1.39452 -1.58789,-1.39453 -0.625,1e-5 -1.22266,0.21094 -1.79297,0.63281 l 0,-1.23047 c 0.59765,-0.33983 1.30468,-0.50976 2.12109,-0.50976 0.78125,0 1.4209,0.19825 1.91895,0.59472 0.49804,0.39649 0.74706,0.93067 0.74707,1.60254 -1e-5,1.19141 -0.60548,1.95118 -1.81641,2.2793 l 0,0.0234 c 0.64062,0.0625 1.15429,0.29199 1.54102,0.68847 0.38671,0.39649 0.58007,0.88379 0.58008,1.46192 -1e-5,0.84375 -0.30567,1.50976 -0.917,1.99804 -0.61133,0.48828 -1.40723,0.73242 -2.38769,0.73242 -0.88672,0 -1.59766,-0.1582 -2.13281,-0.4746 z"
+         id="path8717"
+         style="font-weight:bold;-inkscape-font-specification:Microsoft JhengHei Bold" /></g><g
+       id="text567-9-4-3"
+       style="font-size:12px;font-family:Microsoft JhengHei"><path
+         d="m 307.56396,106.34626 -1.13671,0 0,2.23828 -1.30664,0 0,-2.23828 -4.1543,0 0,-0.89062 3.95508,-5.947271 1.50586,0 0,5.789061 1.13671,0 z m -2.44335,-1.04883 0,-3.55078 c -10e-6,-0.26562 0.008,-0.5703 0.0234,-0.91406 l -0.0234,0 c -0.0977,0.24219 -0.2129,0.47657 -0.34571,0.70312 l -2.49609,3.76172 z"
+         id="path8714"
+         style="font-weight:bold;-inkscape-font-specification:Microsoft JhengHei Bold" /></g><g
+       id="text567-9-4-3-8"
+       style="font-size:12px;font-family:Microsoft JhengHei"><path
+         d="m 325.43182,106.96735 c 0.625,0.39454 1.26563,0.5918 1.92188,0.5918 0.58593,0 1.06249,-0.16015 1.42969,-0.48047 0.36718,-0.32031 0.55077,-0.7539 0.55078,-1.30078 -10e-6,-1.13281 -0.72657,-1.69921 -2.17969,-1.69922 -0.34375,10e-6 -0.82617,0.0293 -1.44727,0.0879 l 0,-4.734372 4.61133,0 0,1.183592 -3.375,0 0,2.36133 c 0.33984,-0.0195 0.5957,-0.0293 0.76758,-0.0293 0.92968,1e-5 1.66601,0.24024 2.20898,0.72071 0.54297,0.48047 0.81445,1.14844 0.81446,2.0039 -10e-6,0.91016 -0.30079,1.63575 -0.90235,2.17676 -0.60156,0.54102 -1.4043,0.81152 -2.4082,0.81152 -0.85938,0 -1.52344,-0.12695 -1.99219,-0.38086 z"
+         id="path8711"
+         style="font-weight:bold;-inkscape-font-specification:Microsoft JhengHei Bold" /></g><path
+       d="m 66.96875,43.4375 c -3.431918,0 -6.21875,2.755582 -6.21875,6.1875 0,3.431918 2.786832,6.1875 6.21875,6.1875 l 63.46875,0 0,-12.375 -63.46875,0 z m 202.875,0 0,12.375 63.5,0 c 3.43192,0 6.1875,-2.755582 6.1875,-6.1875 0,-3.431918 -2.75558,-6.1875 -6.1875,-6.1875 l -63.5,0 z"
+       transform="matrix(0.6457031,0,0,0.6457031,167.96875,71.999996)"
+       id="rect7687-9"
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.13311,-111.50635)"
      clip-path="url(#SVGID_2_)"
      id="g97"><defs
@@ -4136,7 +4237,7 @@
      id="g533"><text
        transform="translate(176.1802,169.7002)"
        id="text535"
-       style="font-size:12px;font-family:Microsoft JhengHei">顏色</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">顏色</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_96_)"
@@ -4159,14 +4260,14 @@
        id="g545"><text
          transform="translate(200.21,169.7002)"
          id="text547"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_104_)"
      id="g565"><text
        transform="translate(219.4102,162.7397)"
        id="text567"
-       style="font-size:12px;font-family:Microsoft JhengHei">1</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">1</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_102_)"
@@ -4189,22 +4290,18 @@
        id="g577"><text
          transform="translate(226.6099,162.7397)"
          id="text579"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_108_)"
      id="g589"><text
        transform="translate(211.0098,176.6602)"
        id="text591"
-       style="font-size:12px;font-family:Microsoft JhengHei">百</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">百位</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_110_)"
-     id="g601"><text
-       transform="translate(223.0098,176.6602)"
-       id="text603"
-       style="font-size:12px;font-family:Microsoft JhengHei">位</text>
-</g><g
+     id="g601" /><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_102_)"
      id="g605"><defs
@@ -4226,14 +4323,14 @@
        id="g613"><text
          transform="translate(235.0098,176.6602)"
          id="text615"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_116_)"
      id="g633"><text
        transform="translate(254.21,162.7397)"
        id="text635"
-       style="font-size:12px;font-family:Microsoft JhengHei">2</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">2</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_114_)"
@@ -4256,14 +4353,14 @@
        id="g645"><text
          transform="translate(261.4102,162.7397)"
          id="text647"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_120_)"
      id="g657"><text
        transform="translate(245.8101,176.6602)"
        id="text659"
-       style="font-size:12px;font-family:Microsoft JhengHei">十位</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">十位</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_114_)"
@@ -4286,14 +4383,14 @@
        id="g669"><text
          transform="translate(269.8101,176.6602)"
          id="text671"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_126_)"
      id="g689"><text
        transform="translate(289.0098,162.7397)"
        id="text691"
-       style="font-size:12px;font-family:Microsoft JhengHei">3</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">3</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_124_)"
@@ -4316,14 +4413,14 @@
        id="g701"><text
          transform="translate(296.21,162.7397)"
          id="text703"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_130_)"
      id="g713"><text
        transform="translate(280.6099,176.6602)"
        id="text715"
-       style="font-size:12px;font-family:Microsoft JhengHei">個位</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">個位</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_124_)"
@@ -4346,14 +4443,14 @@
        id="g725"><text
          transform="translate(304.6104,176.6602)"
          id="text727"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_136_)"
      id="g745"><text
        transform="translate(327.1904,162.7397)"
        id="text747"
-       style="font-size:12px;font-family:Microsoft JhengHei">4</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">4</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_134_)"
@@ -4376,14 +4473,14 @@
        id="g757"><text
          transform="translate(334.3896,162.7397)"
          id="text759"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_140_)"
      id="g769"><text
        transform="translate(318.79,176.6602)"
        id="text771"
-       style="font-size:12px;font-family:Microsoft JhengHei">倍數</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">倍數</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_134_)"
@@ -4406,14 +4503,14 @@
        id="g781"><text
          transform="translate(342.79,176.6602)"
          id="text783"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_146_)"
      id="g801"><text
        transform="translate(384.5498,162.7397)"
        id="text803"
-       style="font-size:12px;font-family:Microsoft JhengHei">5</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">5</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_144_)"
@@ -4436,22 +4533,18 @@
        id="g813"><text
          transform="translate(391.75,162.7397)"
          id="text815"
-         style="font-size:12px;font-family:Microsoft JhengHei" />
+         style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900" />
 </g></g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_150_)"
      id="g825"><text
        transform="translate(370.1504,176.6602)"
        id="text827"
-       style="font-size:12px;font-family:Microsoft JhengHei">誤差</text>
+       style="font-size:12px;font-family:Microsoft JhengHei;font-weight :900">誤差值</text>
 </g><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_152_)"
-     id="g837"><text
-       transform="translate(394.1504,176.6602)"
-       id="text839"
-       style="font-size:12px;font-family:Microsoft JhengHei">值</text>
-</g><g
+     id="g837" /><g
      transform="matrix(1.5486994,0,0,1.5486994,-260.95586,-111.50635)"
      clip-path="url(#SVGID_144_)"
      id="g841"><defs
